@@ -1,0 +1,548 @@
+fingerprint for primary carbocation
+fingerprint for secondary carbocation
+fingerprint for tertiary carbocation
+fingerprint for organohalide
+fingerprint for amonium ion
+fingerprint for primary amonium
+fingerprint for secondary amonium
+fingerprint for tertiary amonium
+fingerprint for nitro
+fingerprint for nitrile
+fingerprint for diazo
+fingerprint for phenol(Ph-OH)
+fingerprint for primary alcohol
+fingerprint for second alcohol
+fingerprint for tertiary alcohol
+fingerprint for Ph-O-Ph
+fingerprint for ether(R-O-R)
+fingerprint for aldehyde(R-CHO)
+fingerprint for ketone(R-CO-R)
+fingerprint for carboxylic acid(R-COOH)
+fingerprint for carboxylate ion(R-COO(-))
+fingerprint for acyl cation(R-CO(+))
+fingerprint for ester(R-COOR)
+fingerprint for Acid anhydride(R-CO-O-COR)
+fingerprint for Alkoxide ion(R-O(-))
+fingerprint for peroxide(R-O-O-R)
+fingerprint for epoxide(c-O-c ring)
+fingerprint for diol(C(OH)-C(OH)-)
+fingerprint for organosilicon
+fingerprint for organoarsenical
+fingerprint for thiol(R-SH)
+fingerprint for thiophenol(Ph-SH)
+fingerprint for R-S-R
+fingerprint for Ph-S-Ph
+fingerprint for sulfonic acid
+fingerprint for thioketone(R-C=S)
+fingerprint for phosphonic acid
+fingerprint for phosphinic acid
+fingerprint for organophophosphate ester
+fingerprint for carboxylic thioester
+fingerprint for sulfate ester
+fingerprint for thiophosphate ester
+fingerprint for amide
+fingerprint for alpha-amino acid
+fingerprint for hydroxynitrile
+fingerprint for oxime
+fingerprint for nitrate ester
+fingerprint for acid halide(RCOX)
+Fingerprint for 3-member rings
+fingerprint for 4-member ings
+Fingerprint for 7-member rings
+Fingerprint for 5-member non-aromatic rings
+Fingerprint for 6-member non-aromatic rings
+Fingerprint for 5-member aromatic rings
+Fingerprint for 6-member aromatic rings
+Fingerprint for heterocyclic rings
+Fingerprint for N heterocyclic rings
+Fingerprint for O heterocyclic rings
+Fingerprint for S heterocyclic rings
+Fingerprint for fused rings with 6 rings
+Fingerprint for fused rings with 5 rings
+Fingerprint for fused rings with 4 rings
+Fingerprint for fused rings with 3 rings
+Fingerprint for fused rings with 2 rings
+Fingerprint for two rings with only one common atom
+Fingerprint for containing rings connected  by one
+Fingerprint for containing rings connected  by 2 no
+Fingerprint for containing rings connected  by 3 no
+Fingerprint for containing rings connected  by 4 no
+Fingerprint for containing rings connected  by 5 no
+Fingerprint for containing rings connected  by 6 no
+Fingerprint for containing rings connected  by 7 no
+Number of Atoms
+Number of Heavy atoms
+Number of H atoms
+Number of B atoms
+Number of C atoms
+Number of N atoms
+Number of O atoms
+Number of F atoms
+Number of P atoms
+Number of S atoms
+Number of Cl atoms
+Number of Br atoms
+Number of I atoms
+NUmber of Bonds
+Number of non-H Bonds
+Number of rings
+Molecular weight(MW)
+Average molecular weight(AMW)
+Number of H-bond donnor
+Number of H-bond acceptor
+Sanderson electronegativity Sum
+Number of rotable bonds
+Number of 3-member rings
+Number of 4-member ings
+Number of 7-member rings
+Number of 5-member non-aromatic rings
+Number of 6-member non-aromatic rings
+Number of 5-member aromatic rings
+Number of 6-member aromatic rings
+Number of heterocyclic rings
+Number of N heterocyclic rings
+Number of O heterocyclic rings
+Number of S heterocyclic rings
+Schultz molecular topological index
+Gutman molecular topological index
+Topological charge index G1
+Topological charge index G2
+Topological charge index G3
+Topological charge index G4
+Topological charge index G5
+Mean topological charge index J1
+Mean topological charge index J2
+Mean topological charge index J3
+Mean topological charge index J4
+Mean topological charge index J5
+Global topological charge index J
+Wiener index
+Mean Wiener index
+Harary index
+Gravitational topological index
+Molecular path count of length 1
+Molecular path count of length 2
+Molecular path count of length 3
+Molecular path count of length 4
+Molecular path count of length 5
+Molecular path count of length 6
+Total path count
+Sum of Estate of atom type sLi
+Sum of Estate of atom type ssBe
+Sum of Estate of atom type ssssBe
+Sum of Estate of atom type ssBH
+Sum of Estate of atom type sssB
+Sum of Estate of atom type ssssB
+Sum of Estate of atom type sCH3
+Sum of Estate of atom type dCH2
+Sum of Estate of atom type ssCH2
+Sum of Estate of atom type tCH
+Sum of Estate of atom type dsCH
+Sum of Estate of atom type aaCH
+Sum of Estate of atom type sssCH
+Sum of Estate of atom type ddC
+Sum of Estate of atom type tsC
+Sum of Estate of atom type dssC
+Sum of Estate of atom type aasC
+Sum of Estate of atom type aaaC
+Sum of Estate of atom type sssC
+Sum of Estate of atom type sNH3
+Sum of Estate of atom type sNH2
+Sum of Estate of atom type ssNH2
+Sum of Estate of atom type dNH
+Sum of Estate of atom type ssNH
+Sum of Estate of atom type aaNH
+Sum of Estate of atom type tN
+Sum of Estate of atom type sssNH
+Sum of Estate of atom type dsN
+Sum of Estate of atom type aaN
+Sum of Estate of atom type sssN
+Sum of Estate of atom type ddsN
+Sum of Estate of atom type aasN
+Sum of Estate of atom type aOH
+Sum of Estate of atom type sOH
+Sum of Estate of atom type dO
+Sum of Estate of atom type ssO
+Sum of Estate of atom type aaO
+Sum of Estate of atom type F
+Sum of Estate of atom type ssSiH2
+Sum of Estate of atom type ssSiH2
+Sum of Estate of atom type sssSiH
+Sum of Estate of atom type ssssSi
+Sum of Estate of atom type sPH2
+Sum of Estate of atom type ssPH
+Sum of Estate of atom type sssP
+Sum of Estate of atom type dsssP
+Sum of Estate of atom type ssssP
+Sum of Estate of atom type sSH
+Sum of Estate of atom type dS
+Sum of Estate of atom type ssS
+Sum of Estate of atom type aaS
+Sum of Estate of atom type dssS
+Sum of Estate of atom type ddssS
+Sum of Estate of atom type sCl
+Sum of Estate of atom type sGeH3
+Sum of Estate of atom type ssGeH2
+Sum of Estate of atom type sssGeH
+Sum of Estate of atom type ssssGe
+Sum of Estate of atom type sAsH2
+Sum of Estate of atom type ssAsH
+Sum of Estate of atom type sssAs
+Sum of Estate of atom type sssdAs
+Sum of Estate of atom type ssssAs
+Sum of Estate of atom type sSeH
+Sum of Estate of atom type dSe
+Sum of Estate of atom type ssSe
+Sum of Estate of atom type aaSe
+Sum of Estate of atom type dssSe
+Sum of Estate of atom type ddssSe
+Sum of Estate of atom type sBr
+Sum of Estate of atom type sSnH3
+Sum of Estate of atom type ssSnH2
+Sum of Estate of atom type sssSnH
+Sum of Estate of atom type ssssSn
+Sum of Estate of atom type sI
+Sum of Estate of atom type sPbH3
+Sum of Estate of atom type ssPbH2
+Sum of Estate of atom type sssPbH
+Sum of Estate of atom type ssssPb
+Sum of Estate of atom type unknown
+Sum of Estate of all heavy atoms
+Sum of Estate of all C   atoms
+Sum of Estate of all halogen atoms
+Sum of Estate of all hetero  atoms
+Sum of Estate of H-bond acceptors
+Average of Estate values
+Maximum of Estate values
+Minimum of Estate values
+Sum of H Estate of atom type HsOH
+Sum of H Estate of atom type HdNH
+Sum of H Estate of atom type HsSH
+Sum of H Estate of atom type HsNH2
+Sum of H Estate of atom type HssNH
+Sum of H Estate of atom type HaaNH
+Sum of H Estate of atom type HsNH3p
+Sum of H Estate of atom type HssNH2p
+Sum of H Estate of atom type HsssNHp
+Sum of H Estate of atom type HtCH
+Sum of H Estate of atom type HdCH2
+Sum of H Estate of atom type HdsCH
+Sum of H Estate of atom type HaaCH
+Sum of H Estate of atom type HCHnX
+Sum of H Estate of atom type HCsats
+Sum of H Estate of atom type HCsatu
+Sum of H Estate of atom type Havin
+Sum of H Estate of atom type Hother
+Sum of H Estate of atom type Hmisc
+Sum of H Estate of H-bond donors
+Xu index
+Modified Xu Index
+Balaban Index J
+Platt Number
+LOG of superpendentic index
+First  Zagreb Index(M1)
+Second Zagreb Index(M2)
+First  Modified Zagreb Index
+Second Modified Zagreb Index
+Quadratic index(Q)
+0th edge connectivity index
+Edge connectivity index
+Extened edge connectivity inndex
+2th  spectral moment
+3th  spectral moment
+4th  spectral moment
+5th  spectral moment
+6th  spectral moment
+7th  spectral moment
+8th  spectral moment
+9th  spectral moment
+10th spectral moment
+Atomic mass weighted Moreau-Broto lagged  0
+Atomic mass weighted Moreau-Broto lagged  1
+Atomic mass weighted Moreau-Broto lagged  2
+Atomic mass weighted Moreau-Broto lagged  3
+Atomic mass weighted Moreau-Broto lagged  4
+Atomic mass weighted Moreau-Broto lagged  5
+Atomic mass weighted Moreau-Broto lagged  6
+Atomic mass weighted Moreau-Broto lagged  7
+Atomic mass weighted Moreau-Broto lagged  8
+Atomic mass weighted Moreau-Broto lagged  9
+Atomic mass weighted Moreau-Broto lagged 10
+Electronegativity weighted Moreau-Broto lagged  0
+Electronegativity weighted Moreau-Broto lagged  1
+Electronegativity weighted Moreau-Broto lagged  2
+Electronegativity weighted Moreau-Broto lagged  3
+Electronegativity weighted Moreau-Broto lagged  4
+Electronegativity weighted Moreau-Broto lagged  5
+Electronegativity weighted Moreau-Broto lagged  6
+Electronegativity weighted Moreau-Broto lagged  7
+Electronegativity weighted Moreau-Broto lagged  8
+Electronegativity weighted Moreau-Broto lagged  9
+Electronegativity weighted Moreau-Broto lagged 10
+VDW radius weighted Moreau-Broto lagged  0
+VDW radius weighted Moreau-Broto lagged  1
+VDW radius weighted Moreau-Broto lagged  2
+VDW radius weighted Moreau-Broto lagged  3
+VDW radius weighted Moreau-Broto lagged  4
+VDW radius weighted Moreau-Broto lagged  5
+VDW radius weighted Moreau-Broto lagged  6
+VDW radius weighted Moreau-Broto lagged  7
+VDW radius weighted Moreau-Broto lagged  8
+VDW radius weighted Moreau-Broto lagged  9
+VDW radius weighted Moreau-Broto lagged 10
+E-State weighted Moreau-Broto lagged  0
+E-State weighted Moreau-Broto lagged  1
+E-State weighted Moreau-Broto lagged  2
+E-State weighted Moreau-Broto lagged  3
+E-State weighted Moreau-Broto lagged  4
+E-State weighted Moreau-Broto lagged  5
+E-State weighted Moreau-Broto lagged  6
+E-State weighted Moreau-Broto lagged  7
+E-State weighted Moreau-Broto lagged  8
+E-State weighted Moreau-Broto lagged  9
+E-State weighted Moreau-Broto lagged 10
+Polarizability mass weighted Moreau-Broto lagged  0
+Polarizability mass weighted Moreau-Broto lagged  1
+Polarizability mass weighted Moreau-Broto lagged  2
+Polarizability mass weighted Moreau-Broto lagged  3
+Polarizability mass weighted Moreau-Broto lagged  4
+Polarizability mass weighted Moreau-Broto lagged  5
+Polarizability mass weighted Moreau-Broto lagged  6
+Polarizability mass weighted Moreau-Broto lagged  7
+Polarizability mass weighted Moreau-Broto lagged  8
+Polarizability mass weighted Moreau-Broto lagged  9
+Polarizability weighted Moreau-Broto lagged 10
+VDW volume weighted Moreau-Broto lagged  0
+VDW volume weighted Moreau-Broto lagged  1
+VDW volume weighted Moreau-Broto lagged  2
+VDW volume weighted Moreau-Broto lagged  3
+VDW volume weighted Moreau-Broto lagged  4
+VDW volume weighted Moreau-Broto lagged  5
+VDW volume weighted Moreau-Broto lagged  6
+VDW volume weighted Moreau-Broto lagged  7
+VDW volume weighted Moreau-Broto lagged  8
+VDW volume weighted Moreau-Broto lagged  9
+VDW volume weighted Moreau-Broto lagged 10
+Atomic mass weighted moran lagged  1
+Atomic mass weighted moran lagged  2
+Atomic mass weighted moran lagged  3
+Atomic mass weighted moran lagged  4
+Atomic mass weighted moran lagged  5
+Atomic mass weighted moran lagged  6
+Atomic mass weighted moran lagged  7
+Atomic mass weighted moran lagged  8
+Atomic mass weighted moran lagged  9
+Atomic mass weighted moran lagged 10
+Electronegativity weighted moran lagged  1
+Electronegativity weighted moran lagged  2
+Electronegativity weighted moran lagged  3
+Electronegativity weighted moran lagged  4
+Electronegativity weighted moran lagged  5
+Electronegativity weighted moran lagged  6
+Electronegativity weighted moran lagged  7
+Electronegativity weighted moran lagged  8
+Electronegativity weighted moran lagged  9
+Electronegativity weighted moran lagged 10
+VDW radius weighted moran lagged  1
+VDW radius weighted moran lagged  2
+VDW radius weighted moran lagged  3
+VDW radius weighted moran lagged  4
+VDW radius weighted moran lagged  5
+VDW radius weighted moran lagged  6
+VDW radius weighted moran lagged  7
+VDW radius weighted moran lagged  8
+VDW radius weighted moran lagged  9
+VDW radius weighted moran lagged 10
+E-State weighted moran lagged  1
+E-State weighted moran lagged  2
+E-State weighted moran lagged  3
+E-State weighted moran lagged  4
+E-State weighted moran lagged  5
+E-State weighted moran lagged  6
+E-State weighted moran lagged  7
+E-State weighted moran lagged  8
+E-State weighted moran lagged  9
+E-State weighted moran lagged 10
+Polarizability mass weighted moran lagged  1
+Polarizability mass weighted moran lagged  2
+Polarizability mass weighted moran lagged  3
+Polarizability mass weighted moran lagged  4
+Polarizability mass weighted moran lagged  5
+Polarizability mass weighted moran lagged  6
+Polarizability mass weighted moran lagged  7
+Polarizability mass weighted moran lagged  8
+Polarizability mass weighted moran lagged  9
+Polarizability mass weighted moran lagged 10
+VDW volume weighted moran lagged  1
+VDW volume weighted moran lagged  2
+VDW volume weighted moran lagged  3
+VDW volume weighted moran lagged  4
+VDW volume weighted moran lagged  5
+VDW volume weighted moran lagged  6
+VDW volume weighted moran lagged  7
+VDW volume weighted moran lagged  8
+VDW volume weighted moran lagged  9
+VDW volume weighted moran lagged 10
+Atomic mass weighted Geary 1
+Atomic mass weighted Geary 2
+Atomic mass weighted Geary 3
+Atomic mass weighted Geary 4
+Atomic mass weighted Geary 5
+Atomic mass weighted Geary 6
+Atomic mass weighted Geary 7
+Atomic mass weighted Geary 8
+Atomic mass weighted Geary 9
+Atomic mass weighted Geary10
+Electronegativity weighted Geary 1
+Electronegativity weighted Geary 2
+Electronegativity weighted Geary 3
+Electronegativity weighted Geary 4
+Electronegativity weighted Geary 5
+Electronegativity weighted Geary 6
+Electronegativity weighted Geary 7
+Electronegativity weighted Geary 8
+Electronegativity weighted Geary 9
+Electronegativity weighted Geary10
+VDW radius weighted Geary 1
+VDW radius weighted Geary 2
+VDW radius weighted Geary 3
+VDW radius weighted Geary 4
+VDW radius weighted Geary 5
+VDW radius weighted Geary 6
+VDW radius weighted Geary 7
+VDW radius weighted Geary 8
+VDW radius weighted Geary 9
+VDW radius weighted Geary10
+Estate weighted Geary 1
+Estate weighted Geary 2
+Estate weighted Geary 3
+Estate weighted Geary 4
+Estate weighted Geary 5
+Estate weighted Geary 6
+Estate weighted Geary 7
+Estate weighted Geary 8
+Estate weighted Geary 9
+Estate weighted Geary10
+Polarizability weighted Geary 1
+Polarizability weighted Geary 2
+Polarizability weighted Geary 3
+Polarizability weighted Geary 4
+Polarizability weighted Geary 5
+Polarizability weighted Geary 6
+Polarizability weighted Geary 7
+Polarizability weighted Geary 8
+Polarizability weighted Geary 9
+polarizability weighted Geary10
+VDW volume weighted Geary 1
+VDW volume weighted Geary 2
+VDW volume weighted Geary 3
+VDW volume weighted Geary 4
+VDW volume weighted Geary 5
+VDW volume weighted Geary 6
+VDW volume weighted Geary 7
+VDW volume weighted Geary 8
+VDW volume weighted Geary 9
+polarizability weighted Geary10
+connectivity index
+connectivity index
+Mean Randic Connectivity index
+2th Kier-Hall connectivity index
+Simple topological index by Narumi
+Harmonic topological index by Narumi
+Geometric topological index by Narumi
+Arithmetic topological index by Narumi
+0th valence connectivity index
+1th valence connectivity index
+2th valence connectivity index
+0th order delta chi index
+1th order delta chi index
+2th order delta chi index
+Pogliani index
+0th Solvation connectivity index
+1th Solvation connectivity index
+2th Solvation connectivity index
+1th order Kier shape index
+2th order Kier shape index
+3th order Kier shape index
+1th order Kappa alpha shape index
+2th order Kappa alpha shape index
+3th order Kappa alpha shape index
+Kier Molecular Flexibility Index
+Topological radius
+Topological diameter
+Graph-theoretical shape coefficient
+Eccentricity
+Average atom eccentricity
+Mean eccentricity deviation
+Average distance degree
+Mean distance degree deviation
+Unipolarity
+Rouvary index Irouv
+Centralization
+Variation
+Dispersion
+Log of PRS INDEX
+RDSQ ondex
+RDCHI index
+Optimized 1th connectivity index
+Logp from connectivity
+BCUT 1th highest of mass
+BCUT 2th highest of mass
+BCUT 3th highest of mass
+BCUT 4th highest of mass
+BCUT 5th highest of mass
+BCUT 1th lowest  of mass
+BCUT 2th lowest  of mass
+BCUT 3th lowest  of mass
+BCUT 4th lowest  of mass
+BCUT 5th lowest  of mass
+BCUT 1th highest of electronegativity
+BCUT 2th highest of electronegativity
+BCUT 3th highest of electronegativity
+BCUT 4th highest of electronegativity
+BCUT 5th highest of electronegativity
+BCUT 1th lowest of electronegativity
+BCUT 2th lowest of electronegativity
+BCUT 3th lowest of electronegativity
+BCUT 4th lowest of electronegativity
+BCUT 5th lowest of electronegativity
+BCUT 1th highest of VDW radius
+BCUT 2th highest of VDW radius
+BCUT 3th highest of VDW radius
+BCUT 4th highest of VDW radius
+BCUT 5th highest of VDW radius
+BCUT 1th lowest of VDW radius
+BCUT 2th lowest of VDW radius
+BCUT 3th lowest of VDW radius
+BCUT 4th lowest of VDW radius
+BCUT 5th lowest of VDW radius
+BCUT 1th highest of Estate
+BCUT 2th highest of Estate
+BCUT 3th highest of Estate
+BCUT 4th highest of Estate
+BCUT 5th highest of Estate
+BCUT 1th lowest of Estate
+BCUT 2th lowest of Estate
+BCUT 3th lowest of Estate
+BCUT 4th lowest of Estate
+BCUT 5th lowest of Estate
+BCUT 1th highest of Polarizability
+BCUT 2th highest of Polarizability
+BCUT 3th highest of Polarizability
+BCUT 4th highest of Polarizability
+BCUT 5th highest of Polarizability
+BCUT 1th lowest of Polarizability
+BCUT 2th lowest of Polarizability
+BCUT 3th lowest of Polarizability
+BCUT 4th lowest of Polarizability
+BCUT 5th lowest of Polarizability
+BCUT 1th highest of VDW volume
+BCUT 2th highest of VDW volume
+BCUT 3th highest of VDW volume
+BCUT 4th highest of VDW volume
+BCUT 5th highest of VDW volume
+BCUT 1th lowest of VDW volume
+BCUT 2th lowest of VDW volume
+BCUT 3th lowest of VDW volume
+BCUT 4th lowest of VDW volume
+BCUT 5th lowest of VDW volume
