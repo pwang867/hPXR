@@ -1,6 +1,4 @@
-SN,"Compound 
-Name",CAS,"Human PXR 
-Activator or not?",Reference (PubMedID),SMILE
+SN,Compound Name,CAS,Human PXR Activator or not?,Reference (PubMedID),SMILE
 1,rifampicin,13292-46-1,Y,12840222 /10748001,O=C3C2=C(C4=C(O[H])C(C([H])([H])[H])=C2O[C@](O/C([H])=C([H])/[C@@]([C@@]([C@@]([C@]5([H])[C@@]([H])([H])[H])([H])OC(C([H])([H])[H])=O)([H])[C@]([H])([H])[H])([H])OC([H])([H])[H])3[C@@]([H])([H])[H])C(O[H])=C(C(N([H])C(/C(C([H])([H])[H])=C([H])/C([H])=C([H])/[C@]([C@]([C@]([C@@]([H])([H])[H])([H])[C@]([H])5O[H])([H])O[H])([H])[C@@]([H])([H])[H])=O)=C4O[H])/C([H])=N/N1C([H])([H])C([H])([H])N(C([H])([H])[H])C([H])([H])C([H])1[H]
 2,hyperforin,11079-53-1,Y,12840222 / 10852961,O=C([C@@]([C@]([C@@](C([H])([H])/C([H])=C(C([H])([H])[H])\C([H])([H])[H])1C([H])2[H])=O)(C(O[H])=C(C([H])([H])/C([H])=C(C([H])([H])[H])/C([H])([H])[H])C1=O)[C@@]([C@]([H])([H])[H])([C@@]2([H])[C@@]([H])([H])/C([H])=C(C([H])([H])[H])\C([H])([H])[H])C([H])([H])C([H])([H])/C([H])=C(C([H])([H])[H])/C([H])([H])[H])C(C([H])([H])[H])([H])C([H])([H])[H]
 3,lithocholic acid,434-13-9,Y,12569201 / 11744617,O=C(O[H])C([H])([H])C([H])([H])[C@]([C@]([H])([H])[H])([H])[C@]2([H])[C@@]1([C@](C([H])([H])C([H])2[H])([H])[C@@](C([H])([H])C([H])([H])[C@@]4([H])[C@](C([H])([H])C([H])([H])[C@@](O[H])([H])C([H])4[H])3[C@]([H])([H])[H])([H])[C@]3([H])C([H])([H])C([H])1[H])[C@]([H])([H])[H]
